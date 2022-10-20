@@ -2,7 +2,9 @@
 
 2021 Fall CS473 Project: Watching Sports Service
 
-Demo video : https://youtu.be/mWQXH55Iu4A
+## Demo video
+
+https://youtu.be/mWQXH55Iu4A
 
 ## Members
 
