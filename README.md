@@ -51,9 +51,22 @@ Huikyeong An
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- React - 16.13.1
+- axios - 0.24.0
+- craco-alias - 3.0.1",
+- material-ui - 1.0.0-beta.47
+- react-dom - 16.13.1
+- react-flv-player - 1.0.9
+- react-redux - ^7.2.6
+- react-router-dom - 5.3.0
+- react-scripts - 4.0.3
+- redux - 4.1.2
+- redux-persist - 6.0.0
+- redux-promise - 0.6.0
+- redux-thunk - 2.4.0
+- socket.io - 4.3.1
+- socket.io-client - 4.3.2
+- styled-components - 5.3.1
 
 
 ## Features
