@@ -40,6 +40,7 @@ Huikyeong An
 
 <br />
 
+
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
@@ -77,7 +78,7 @@ List the ready features here:
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is:  _complete_ 
 
 
 ## Room for Improvement
@@ -122,16 +123,6 @@ src
 `Refactor`: Modify components or functions.
 
 `Fix`: Fix bugs and mistakes.
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 <!-- Optional -->
