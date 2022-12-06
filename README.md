@@ -53,7 +53,7 @@ Huikyeong An
 ## Technologies Used
 - React - 16.13.1
 - axios - 0.24.0
-- craco-alias - 3.0.1",
+- craco-alias - 3.0.1
 - material-ui - 1.0.0-beta.47
 - react-dom - 16.13.1
 - react-flv-player - 1.0.9
