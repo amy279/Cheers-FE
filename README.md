@@ -2,7 +2,10 @@
 
 2021 Fall CS473 Project: Watching Sports Service
 
-> Outline a brief description of your project.
+Streaming Metaverse Web Application
+- Proposed a solution to increase social engagement during covid with a modernized streaming platform that
+incorporated dynamic frameworks in its software development process
+- Designed and implemented the admin page and game algorithm
 > Live demo [_here_](https://youtu.be/mWQXH55Iu4A).
 
 
