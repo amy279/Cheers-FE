@@ -44,7 +44,7 @@ Huikyeong An
 <br />
 
 
-## General Information
+## General Information (TBD)
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
@@ -72,14 +72,14 @@ Huikyeong An
 - styled-components - 5.3.1
 
 
-## Features
+## Features(TBD)
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
 
 
-## Screenshots
+## Screenshots (TBD)
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
@@ -97,7 +97,7 @@ List the ready features here:
 Project is:  _complete_ 
 
 
-## Room for Improvement
+## Room for Improvement (TBD)
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
